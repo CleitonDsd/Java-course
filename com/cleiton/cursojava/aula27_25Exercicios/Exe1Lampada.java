@@ -3,6 +3,7 @@ package com.cleiton.cursojava.aula27_25Exercicios;
 public class Exe1Lampada {
 
 	// Classe do exercicio número 1 - Lampadas
+	
 
 	boolean ligada;
 
