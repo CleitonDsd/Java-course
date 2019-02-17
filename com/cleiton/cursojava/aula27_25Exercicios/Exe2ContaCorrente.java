@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Exe2ContaCorrente {
 
 	Scanner scan = new Scanner(System.in);
+	
 	int numeroConta;
 	double saldo, limite;
 	String especial;
