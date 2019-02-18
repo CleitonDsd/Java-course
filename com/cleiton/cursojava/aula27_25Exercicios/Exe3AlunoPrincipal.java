@@ -4,12 +4,11 @@ public class Exe3AlunoPrincipal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 		Exe3Aluno aluno = new Exe3Aluno();
-		
+
 		aluno.pegarDados();
-		aluno.exibirDados();
-
+		aluno.exibirInformacoes();
+		aluno.situacaoAluno();
 	}
-
 }
